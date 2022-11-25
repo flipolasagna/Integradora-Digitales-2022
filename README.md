@@ -74,9 +74,27 @@ int cont = 0;
 
 ```C
   PORTC |=(1<<PC4);
-  PORTC |=(1<<PC3);
   PORTC |=(1<<PC1);
-  PORTC |=(1<<PC0);
 ```
-#### » Usamos un WHILE el cual sera el encargado de que todo dentro de el se cumpla y se repita al llegar a final.
+
+#### » Asignamos las ditintas variables que tendria este vector para el display.
+```C
+int vector []={0b11111100,// 0
+               0b01100000,// 1
+               0b11011010,// 2
+               0b11110010,// 3
+               0b01100110,// 4
+               0b10110110,// 5
+               0b10111110,// 6
+               0b11100000,// 7
+               0b11111110,// 8
+               0b11110110,// 9
+               0b11111010,// A
+               0b00111110,// B
+               0b10011100,// C
+               0b01111010,// D
+               0b10011110,// E
+               0b10001110,// F
+ ```
+
 
