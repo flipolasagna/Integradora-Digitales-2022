@@ -1,5 +1,4 @@
- Integradora-Digitales-2022
-###### hola mundo
+
 # ˗ˏˋIntegradora-Digitales-2022´ˎ˗
 ## ⿻Consignas:
 
