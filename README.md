@@ -3,8 +3,8 @@
 ## ⿻Consignas:
 
  ###### 1. Debe poder ajustarse el tiempo solo cuando este no esta corriendo o en pausa, es decir cuando el horno esta en espera.
-###### 2. . Un pulsador permitir´a comenzar la cuenta regresiva o bien pausara/reanudara si ya habiıa comenzado.
- ###### 3.  Un pulsador permite cancelar en cualquier momento la cuenta regresiva y regresar a el estado de espera.
+###### 2. . Un pulsador permitir´a comenzar la cuenta regresiva o bien pausara/reanudara si ya habiıa comenzado
+ ###### 3.  Un pulsador permite cancelar en cualquier momento la cuenta regresiva y regresar a el estado de espera        
 ######  4. . Mientras el horno esta en espera, las salidas deben estar apagadas. Al comenzar la cuenta regresiva se enciende el quemador y el ventilador.
  ###### 5. Cuando se alcanzan las 3/4 partes del tiempo (puede ser aproximado), se debe activar la valvula de vapor.
 
